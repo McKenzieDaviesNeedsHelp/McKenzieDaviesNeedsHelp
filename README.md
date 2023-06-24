@@ -3,7 +3,10 @@
 - 🌱 I’m currently learning python, html, javascript, css.
 - 📫 How to reach me . Email me at mckenziedavies369@gmail.com
 
-If your interested I would be honoured for the help. Some quick things you should know about me:
+If your interested I would be honoured for the help. I currently need help from anyone who understands machine learning with python using tensorflow or pytorch. I am currently try to make an advanced AI chatbot which can inform people of any topic we give it. It would also need some humanoid vocal sythesis and some speech recognition. 
+
+
+Some quick things you should know about me:
 
 - I am autistic and have issuse communicating sometimes,
 - I am very persistent,
